@@ -9,6 +9,11 @@
 <p style="font-size:7px;">
 Just a tech..
 </p>
+<p style="font-size:7px;">
+A True Blue 
+<br>
+Up the Chels 💙
+</p>
 <p>Fun fact : I am Egyptian </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
