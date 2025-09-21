@@ -27,8 +27,8 @@ Up the Chels 💙
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-	<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind"></td>
-	<td><img src="https://skillicons.dev/icons?i=git,vscode,idea,github&theme=dark"></td>
+	<td><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js"></td>
+	<td><img src="https://skillicons.dev/icons?i=figma,git,vscode,webstorm,idea,github,vercel&theme=dark"></td>
 	<td><img src="https://skillicons.dev/icons?i=java&theme=dark"></td>
 </tr>
 </table>
