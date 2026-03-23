@@ -32,7 +32,7 @@ Up the Chels 💙
 		<img src="https://iconic-api.onrender.com/dark/tailwind" width="42px" />
 		<img src="https://iconic-api.onrender.com/dark/js" 		 width="42px" />
 		<img src="https://iconic-api.onrender.com/dark/react" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/ts" 	 width="42px" />
+		<img src="https://iconic-api.onrender.com/dark/typescript" 	 width="42px" />
 	</td>
 		<td>
 		<img src="https://iconic-api.onrender.com/dark/figma" 	 width="42px" />
