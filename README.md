@@ -21,9 +21,9 @@ Up the Chels 💙
 <table>
 
 <tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Tools</strong></td>
 	<td><strong>Languages</strong></td>
+	<td><strong>Tools</strong></td>
+	<!-- <td><strong>Languages</strong></td> -->
 </tr>
 <tr>
 	<td>
@@ -43,6 +43,6 @@ Up the Chels 💙
 		<img src="https://iconic-api.onrender.com/dark/vercel" 	 width="42px" />
 	</td>
 	<!-- <td><img src="https://skillicons.dev/icons?i=java&theme=dark"></td> -->
-	<td><img src="https://iconic-api.onrender.com/dark/java" width="42px" /></td>
+	<!-- <td><img src="https://iconic-api.onrender.com/dark/java" width="42px" /></td> -->
 </tr>
 </table>
