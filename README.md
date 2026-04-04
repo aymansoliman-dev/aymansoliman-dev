@@ -10,7 +10,7 @@
 Just a tech..
 </p>
 <p style="font-size:7px;">
-A True Blue 
+An Aspiring Edinburgher 
 <br>
 Up the Chels 💙
 </p>
