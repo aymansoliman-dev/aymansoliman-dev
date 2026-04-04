@@ -12,7 +12,7 @@ Just a tech..
 <p style="font-size:7px;">
 An Aspiring Edinburgher 
 <br>
-Up the Chels 💙
+A True Blue 💙
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
