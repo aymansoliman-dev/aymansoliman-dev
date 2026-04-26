@@ -3,7 +3,7 @@
 </div>
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/a_soliman1783)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayman-soliman-a602aa232)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayman-soliman-dev)
 
 ## About Ayman
 <p style="font-size:7px;">
