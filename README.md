@@ -17,32 +17,10 @@ A True Blue 💙
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
- 
-<table>
 
-<tr>
-	<td><strong>Languages</strong></td>
-	<td><strong>Tools</strong></td>
-	<!-- <td><strong>Languages</strong></td> -->
-</tr>
-<tr>
-	<td>
-		<img src="https://iconic-api.onrender.com/dark/html" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/css" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/tailwind" width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/js" 		 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/react" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/typescript" 	 width="42px" />
-	</td>
-		<td>
-		<img src="https://iconic-api.onrender.com/dark/figma" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/git" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/vscode" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/webstorm" width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/github" 	 width="42px" />
-		<img src="https://iconic-api.onrender.com/dark/vercel" 	 width="42px" />
-	</td>
-	<!-- <td><img src="https://skillicons.dev/icons?i=java&theme=dark"></td> -->
-	<!-- <td><img src="https://iconic-api.onrender.com/dark/java" width="42px" /></td> -->
-</tr>
-</table>
+```
+{
+	languages: ["html", "css", "tailwind", "javascript", "react", "typesecript"],
+	tools: ["figma", "git", "github", "webstorm", "vercel"]
+}
+```
