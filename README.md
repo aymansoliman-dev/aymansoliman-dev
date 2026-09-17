@@ -20,6 +20,6 @@ A True Blue 💙
 ```
 {
 	languages: ["html", "css", "tailwind", "javascript", "react", "typesecript"],
-	tools: ["figma", "git", "github", "webstorm", "vercel"]
+	tools: ["figma", "git", "github", "vscode", "webstorm", "vercel"]
 }
 ```
